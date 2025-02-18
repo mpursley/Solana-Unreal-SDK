@@ -37,7 +37,7 @@ All plugin related content can be found in the content browser under: Plugins ->
 First start by adding a Linkstream blueprint to your games level. 
 It can be found in: Plugins -> Solana SDK Content -> Blueprints
 
-Once you have linkstream in your level you can communicate with Unreal Solnet with fully capabilities.
+Once you have linkstream in your level you can communicate with Unreal Solnet with full capabilities.
 
 Open up the level blueprint and create a sequence that initializes the chain client first
 ![image](https://github.com/Bifrost-Technologies/Solana-Unreal-SDK/assets/24855008/a67023e0-3622-461c-b0ff-b534e717abcf)
